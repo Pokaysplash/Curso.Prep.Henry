@@ -1,0 +1,26 @@
+Variable
+Es como tener un cajoncito donde puedes guardar cosas y luego recuperarlas.
+
+Strings
+Es como un texto que puedo encerrar entre " ", puedes escribir allí y aparecerá luego.
+
+Funciones (argumentos, return)
+No es necesario escribir dos veces lo mismo o pedir que mi código haga dos veces o más lo mismo.
+También puedo agrupar mi código, guardarlo como en un cajoncito más grande y luego ejecutarlo.
+
+	Return
+	Es cuando quieres devolver el valor de la función en el código.
+	También sirve para detener la función, el resto del código no funcionará o no se ejecutará.
+
+	Argumentos
+	Es como el nombre o la forma en la que llamas una Function, puedes escribirla más abajo y saldrá
+	el resultado de esa function. 
+
+Declaraciones if
+Me permite elegir entre dos opciones según lo que esté en mi código, si es positivo hace una cosa o si es negativo
+puede hacer otra cosa o acción.
+
+Valores Booleanos
+Me permite saber si algo es verdadero o falso (true, false) y con base a ello toma una acción.
+ 
+
